@@ -1,0 +1,295 @@
+{
+  "uuid": "e711ee5b60411587bb2daa039cab5784",
+  "path": "Offline/RC2014%20-%20ZX%20Expansion%20Adapter%20-%20V1.0",
+  "name": "RC2014 - ZX Expansion Adapter - V1.0",
+  "content": "",
+  "created_at": "2022-09-15 09:45:47",
+  "updated_at": "2023-03-29 14:08:47",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "cbaa6d1a44d781b3ce0046b506cf1a26",
+      "title": "ZX Bus Adapter",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1680052127,
+      "createTime": 1663356735,
+      "histories": [],
+      "created_at": "2022-09-17 07:32:15",
+      "updated_at": "2023-03-29 14:08:47",
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "47uF",
+          1,
+          "CAP-TH_BD6.3-P2.50-D1.0-FD",
+          "C1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C190654",
+            "BOM_Manufacturer": "Changzhou Huawei Elec",
+            "BOM_Manufacturer Part": "KM1H470ME110A00CV0",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "1a9b494b74c34d3b879eb7f824b3824d",
+            "uuid": "4be4c3425bd24885a3069bf9b90591cd"
+          }
+        ],
+        [
+          "100nF",
+          8,
+          "CAP-TH_L5.5-W3.5-P2.50-D0.5 COPY",
+          "C2,C3,C4,C6,C7,C8,C9,C10",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "100nF (104) ±20% 100V",
+            "BOM_Supplier Part": "C72322",
+            "puuid": "64f0880e278e480098c66fa92784f26c",
+            "uuid": "7f474ecfe86cad0db40a161c696fe62f"
+          }
+        ],
+        [
+          "220uF",
+          1,
+          "CAP-TH_BD6.3-P2.50-D1.0-FD",
+          "C5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C190654",
+            "BOM_Manufacturer": "Changzhou Huawei Elec",
+            "BOM_Manufacturer Part": "KM1H470ME110A00CV0",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "1a9b494b74c34d3b879eb7f824b3824d",
+            "uuid": "4be4c3425bd24885a3069bf9b90591cd"
+          }
+        ],
+        [
+          "DC JACK",
+          1,
+          "DC JACK",
+          "CN1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "SOFNG",
+            "BOM_Manufacturer Part": "DC005-2.0MM",
+            "BOM_Supplier Part": "C111567",
+            "puuid": "dd2f62781f354e90b2b0ba85916ca966",
+            "uuid": "a9f48ae6c0444d27a108be2ecebfbc65"
+          }
+        ],
+        [
+          "ZX Spectrum Edge Connector (Horizontal)",
+          1,
+          "ZX SPECTRUM EDGE CONNECTOR (HORIZONTAL)",
+          "CON1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "b46aff7b2dec4c099549197c83a78fc3",
+            "uuid": "b99c33a274b54f87b54d63b6476bcfa5"
+          }
+        ],
+        [
+          "ZX Spectrum Edge Connector (Vertical)",
+          1,
+          "ZX SPECTRUM EDGE CONNECTOR (VERTICAL)",
+          "CON2",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "d9ec00a449444dbaa55b6ad549c38396",
+            "uuid": "a98c1b9c77214cd28fbe2108973024b5"
+          }
+        ],
+        [
+          "HDR-F-2.54_2x20",
+          1,
+          "HDR-F-2.54_2X20",
+          "H1",
+          {
+            "BOM_Supplier Part": "C50982",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "e5ff423634c14561ade34618192283a8",
+            "uuid": "f905d92dec8d467ea5a4c65855aa37eb"
+          }
+        ],
+        [
+          "HDR-F-2.54_2x8",
+          1,
+          "HDR-F-2.54_2X8",
+          "H2",
+          {
+            "BOM_Supplier Part": "C30734",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "7787e76d8edb40b781022f483e216f13",
+            "uuid": "2244314c88bd4c989fc2989020a26e2d"
+          }
+        ],
+        [
+          "RC2014 Male 40",
+          1,
+          "HDR-1X40-A-M-R-2.54MM",
+          "J1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "a12d9c123b504547a7ac6826a9e275cf",
+            "uuid": "49c16a621a0b4e6bbc9d426f05fa76c3"
+          }
+        ],
+        [
+          "RC2014 Male 10",
+          1,
+          "HDR-1X10-S-M-2.54MM",
+          "J2",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "00f7a051217f4384ae04fe5d4614d653",
+            "uuid": "d385dfa4fc764645bd14927ed7b96795"
+          }
+        ],
+        [
+          "HDR-M-2.54_2x2",
+          3,
+          "HDR-M-2.54_2X2",
+          "J3,J4,J5",
+          {
+            "BOM_Supplier Part": "C66690",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "8c011694efe04de7ac0c392bf11240d5",
+            "uuid": "0d0a13f4d5e4481aa82dc0293d1aa27e"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x6",
+          1,
+          "HDR-M-2.54_1X6",
+          "J6",
+          {
+            "BOM_Supplier Part": "C190819",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "df3ca37cb13d499cb713e9aa6fdd0c7b",
+            "uuid": "93b44d62463c4c9c82dd7108c8ee7d73"
+          }
+        ],
+        [
+          "470R",
+          1,
+          "R_AXIAL-0.3 COPY",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "669d1f209c1049a2b5e17b3eb1d3fef0",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "K4-6×6_TH",
+          1,
+          "KEY-TH_4P-L6.0-W6.0-P4.50-LS6.5",
+          "SW1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C136684",
+            "BOM_Manufacturer": "韩国韩荣",
+            "BOM_Manufacturer Part": "K2-1102DP-E4SW-04",
+            "puuid": "557c105168d444a992e25584f55bcbb2",
+            "uuid": "18479f1c4d4749c5a4c4387846c5d657"
+          }
+        ],
+        [
+          "M74HC02B1R",
+          1,
+          "DIP14",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "d3ea42d063a54d01a2b3ec87c69cd22a",
+            "uuid": "70c9e4e7ea334c25bfb49f0c4ab385d5"
+          }
+        ],
+        [
+          "ZX IF2 2x15 Card Edge Connector",
+          1,
+          "ZX IF2 2X15 CARD EDGE CONNECTOR",
+          "U3",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "725bb546291a4a149b0f559d5336696e",
+            "uuid": "1e51a8293f88464580ad8e604cbf65da"
+          }
+        ]
+      ],
+      "components": {
+        "b99c33a274b54f87b54d63b6476bcfa5": 1,
+        "a98c1b9c77214cd28fbe2108973024b5": 1,
+        "d385dfa4fc764645bd14927ed7b96795": 1,
+        "0d0a13f4d5e4481aa82dc0293d1aa27e": 3,
+        "49c16a621a0b4e6bbc9d426f05fa76c3": 1,
+        "18479f1c4d4749c5a4c4387846c5d657": 1,
+        "70c9e4e7ea334c25bfb49f0c4ab385d5": 1,
+        "4be4c3425bd24885a3069bf9b90591cd": 2,
+        "7f474ecfe86cad0db40a161c696fe62f": 8,
+        "1e51a8293f88464580ad8e604cbf65da": 1,
+        "a9f48ae6c0444d27a108be2ecebfbc65": 1,
+        "5d56951fd43d4b5083b0f3cd9bfd5587": 1,
+        "f905d92dec8d467ea5a4c65855aa37eb": 1,
+        "2244314c88bd4c989fc2989020a26e2d": 1,
+        "93b44d62463c4c9c82dd7108c8ee7d73": 1
+      }
+    },
+    {
+      "uuid": "6d005105ef1e86c2e6498397de597dff",
+      "title": "PCB_RC2014 - ZX Adapter",
+      "filename": "PCB_RC2014 - ZX Adapter.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1663415285,
+      "createTime": 1663356322,
+      "histories": [],
+      "created_at": "2022-09-17 07:25:22",
+      "updated_at": "2022-09-17 23:48:05",
+      "components": {
+        "64f0880e278e480098c66fa92784f26c": 8,
+        "df3ca37cb13d499cb713e9aa6fdd0c7b": 1,
+        "b46aff7b2dec4c099549197c83a78fc3": 1,
+        "dd2f62781f354e90b2b0ba85916ca966": 1,
+        "e5ff423634c14561ade34618192283a8": 1,
+        "7787e76d8edb40b781022f483e216f13": 1,
+        "669d1f209c1049a2b5e17b3eb1d3fef0": 1,
+        "1a9b494b74c34d3b879eb7f824b3824d": 2,
+        "8c011694efe04de7ac0c392bf11240d5": 3,
+        "725bb546291a4a149b0f559d5336696e": 1,
+        "557c105168d444a992e25584f55bcbb2": 1,
+        "d3ea42d063a54d01a2b3ec87c69cd22a": 1,
+        "00f7a051217f4384ae04fe5d4614d653": 1,
+        "a12d9c123b504547a7ac6826a9e275cf": 1
+      }
+    }
+  ],
+  "sort": [],
+  "title": "RC2014 - ZX Expansion Adapter - V1.0",
+  "foldername": "RC2014 - ZX Expansion Adapter - V1.0",
+  "schfilename": "RC2014 - ZX Adapter.json",
+  "schfilemtime": 1680052127087
+}
